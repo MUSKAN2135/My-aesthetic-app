@@ -73,9 +73,9 @@ export default function Footer() {
                         <div className='flex items-center'>
                             <FaPhone className='bg-[#b18b5e] p-3 w-11 h-11 mr-2 rounded-full' />
                             <div className='p-1'>
-                                <p>+923015128480
-                                    <h5 >Mon-Sat: 9AM-12PM</h5>
-                                </p>
+                                <h5>+923015128480
+                                    <p>Mon-Sat: 9AM-12PM</p>
+                                </h5>
                             </div>
                         </div>
                     </div>
