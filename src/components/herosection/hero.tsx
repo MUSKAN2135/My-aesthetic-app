@@ -7,7 +7,7 @@ export default function Herosection() {
         <div className="p-5 flex" >
           <h2 className="md:text-5xl sm:text-3xl text-3xl" data-aos="zoom-out-right" data-aos-duration="2000">Welcome to </h2>
           <div className="flex flex-col">
-            <h2 className="md:text-5xl sm:text-3xl text-3xl px-2" data-aos="zoom-out-left" data-aos-duration="2000"> ALA</h2>
+            <h2 className="md:text-5xl sm:text-3xl text-3xl pl-2" data-aos="zoom-out-left" data-aos-duration="2000"> ALA</h2>
             <span className="text-xs px-2 text-[#b18b5e]" data-aos="fade-up" data-aos-anchor="#example-anchor" data-aos-offset="500" data-aos-duration="3000"> Estetik Estilo</span>
           </div>
         </div>

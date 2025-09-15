@@ -25,7 +25,7 @@ export default function Footer() {
                     <p className='p-2 leading-7 text-gray-400'>
                         Gentle textures, mindful design
                         Crafted to soothe, styled to charm
-                        Made to feel, made to last.
+                        {/* Made to feel, made to last. */}
                     </p>
                     <div className='foot-icons flex'>
                         <FaFacebookF className='p-3 text-4xl shadow-md rounded-full m-2 bg-white text-black' />
